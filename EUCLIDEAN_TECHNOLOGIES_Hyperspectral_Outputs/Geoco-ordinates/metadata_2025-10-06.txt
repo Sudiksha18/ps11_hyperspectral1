@@ -1,0 +1,21 @@
+PRISMA Hyperspectral Anomaly Detection Results
+==================================================
+
+Submission Date: 2025-10-06
+Algorithm: Enhanced Adaptive Mahalanobis Distance
+Original Data Shape: 1202 x 173 x 1210
+Output Shape: 1202 x 173
+Total Pixels: 207,946
+Anomaly Pixels: 10,398
+Anomaly Percentage: 5.00%
+
+Performance Statistics:
+  Overall_Accuracy: 0.887
+  Best_F1_Score: 0.055
+  ROC_AUC: 0.500
+  PR_AUC: 0.050
+  Optimal_ROC_Accuracy: 0.535
+  Total_Anomalies: 10397
+  Anomaly_Percentage: 5.00%
+  Processing_Date: 2025-10-13
+  Algorithm_Version: Enhanced_v2.0
